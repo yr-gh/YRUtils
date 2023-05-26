@@ -1,0 +1,9 @@
+{
+  "multiFastqc.fastqc_out_dir": "/home/yangrui/temp/fastqc",
+  "multiFastqc.fq_gzs": [
+    "/home/yangrui/temp/MPRATestLib/20230518-ZhongGuoKeXueYuanDongWuYanJiuSuo-YYX/01.rawFq/00.mergeRawFq/MPRA-T-30/MPRA-T-30_raw_1.fq.gz", 
+    "/home/yangrui/temp/MPRATestLib/20230518-ZhongGuoKeXueYuanDongWuYanJiuSuo-YYX/01.rawFq/00.mergeRawFq/MPRA-T-30/MPRA-T-30_raw_2.fq.gz"
+  ],
+  "multiFastqc.cpus": 6,
+  "multiFastqc.multiqc_out_dir": "/home/yangrui/temp/multiqc"
+}
